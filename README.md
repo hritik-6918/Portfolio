@@ -2,15 +2,17 @@
   Portfolio Website<br/>
   <a href="https://github.com/hritik-6918" target="_blank">hritik-6918</a>
 </h2>
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
+
+![Screenshot (444)](https://github.com/user-attachments/assets/49bb4ffd-27e4-483c-b097-ea83374bf2d2)
+
+![Screenshot (445)](https://github.com/user-attachments/assets/16ca3c8b-d9d0-420e-8b5b-a4aafe576586)
+
 
 <br/>
 
 ## Built With
 
-My personal portfolio <a href="/" target="_blank">hritik-6918</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://my-portfolio-hritik.vercel.app/" target="_blank">hritik-6918</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
