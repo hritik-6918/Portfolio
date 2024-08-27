@@ -1,5 +1,5 @@
 <h2 align="center">
-  Portfolio Website<br/>
+  PORTFOLIO WEBSITE<br/>
   <a href="https://github.com/hritik-6918" target="_blank">hritik-6918</a>
 </h2>
 
